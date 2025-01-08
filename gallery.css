@@ -26,5 +26,11 @@ body{
     border: 10px solid black;
 }
 img{
-		width:95%;
+		width: 350px;
+		grid-column: 3;
+		grid-row: 2;
+		border-style: solid;
+		border-width: 10px;
+		padding: 10px;
+		Margin: 20px;
 }
